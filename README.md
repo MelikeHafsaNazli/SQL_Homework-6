@@ -19,4 +19,3 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
         SELECT COUNT(DISTINCT replacement_cost) FROM film WHERE length >150;
         
  ### patika.dev linki: https://app.patika.dev/melikehafsa
-
